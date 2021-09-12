@@ -32,6 +32,6 @@ fn main() {
             }
         }
 
-        println!("");
+        println!();
     }
 }
